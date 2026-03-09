@@ -1,0 +1,2 @@
+git clone git@github.com:Inaam1995/mlb_aesthetic.git
+gunicorn --bind 0.0.0.0:8000 rag_web_app:app

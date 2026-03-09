@@ -1,0 +1,2 @@
+model,model_size_mb,load_time_sec,embedding_time_sec,query_time_sec,max_similarity_score
+sentence-transformers/static-similarity-mrl-multilingual-v1,832.4,2.45,0.04,0.0055,0.5799
