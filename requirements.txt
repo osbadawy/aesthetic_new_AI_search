@@ -1,0 +1,12 @@
+openai
+pandas
+openpyxl
+flask
+python-dotenv
+scikit-learn
+numpy>=1.21.0,<2
+tiktoken
+gunicorn
+sentence-transformers
+torch
+transformers
